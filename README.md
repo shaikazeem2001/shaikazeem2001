@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shaikazeem2001
+- 👋 Hi, I’m shaik azeem
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Next Js.
 - 📫 How to reach me shaikazeem2069@gmail.com
