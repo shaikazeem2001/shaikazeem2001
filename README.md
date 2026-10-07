@@ -124,7 +124,7 @@ const azeem = {
 
 ### 📈 Contribution Activity Graph
 <a href="https://github.com/shaikazeem2001">
-  <img src="https://ghchart.rshah.org/2ea043/shaikazeem2001" width="100%" alt="Contribution Graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=shaikazeem2001&bg_color=0d1117&color=2ea043&line=2ea043&point=3fb950&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 </a>
 
 <br/><br/>
