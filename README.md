@@ -123,24 +123,18 @@ const azeem = {
 <div align="center">
 
 ### 📈 Contribution Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikazeem2001&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+<a href="https://github.com/shaikazeem2001">
+  <img src="https://ghchart.rshah.org/2ea043/shaikazeem2001" width="100%" alt="Contribution Graph" />
+</a>
 
 <br/><br/>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=shaikazeem2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikazeem2001&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikazeem2001&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak Stats" />
+<a href="https://github.com/shaikazeem2001">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikazeem2001&layout=compact&theme=dark&title_color=2ea043&text_color=c9d1d9&bg_color=0d1117&hide_border=true" width="48%" alt="Top Languages" />
+</a>
+<a href="https://github.com/shaikazeem2001">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikazeem2001&theme=dark&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideTitle=2EA043&dates=c9d1d9&hide_border=true" width="48%" alt="GitHub Streak Stats" />
+</a>
 
 </div>
 
