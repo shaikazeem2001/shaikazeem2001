@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="./assets/header_banner.jpg" width="100%" alt="Azeem Shaik Header Banner" />
+
 
 <br/><br/>
 
