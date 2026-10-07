@@ -5,23 +5,24 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/shaikazeem2001?style=for-the-badge&color=181717&logo=github)](https://github.com/shaikazeem2001)
 [![Total Repositories](https://img.shields.io/badge/Repositories-28_Active-blue?style=for-the-badge&logo=git)](https://github.com/shaikazeem2001?tab=repositories)
+[![Pull Requests](https://img.shields.io/badge/Pull_Requests-Active_Contributor-orange?style=for-the-badge&logo=git-pull-request&logoColor=white)](https://github.com/shaikazeem2001?tab=overview)
 [![Portfolio](https://img.shields.io/badge/Portfolio-azeem--delta.vercel.app-5865F2?style=for-the-badge&logo=vercel)](https://azeem-delta.vercel.app/)
 
 </div>
 
 ---
 
-### 📊 Engineering Statistics & Language Distribution
+### 📊 Engineering Statistics, Language Pie Chart & PR Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaikazeem2001&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikazeem2001&layout=donut&theme=dark&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikazeem2001&layout=pie&theme=dark&hide_border=true&langs_count=6" width="48%" alt="Top Languages Pie Chart" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikazeem2001&theme=dark&hide_border=true" width="97%" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaikazeem2001&theme=dark" width="97%" alt="Contribution & Pull Request Activity Graph" />
 </div>
 
 ---
