@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to Azeem Shaik's Engineering Hub
+# Hi,iam Azeem 👋🏻
 *Explore open-source full-stack systems, distributed architecture, and AI vector pipelines*
 
 [![GitHub Followers](https://img.shields.io/github/followers/shaikazeem2001?style=for-the-badge&color=181717&logo=github)](https://github.com/shaikazeem2001)
