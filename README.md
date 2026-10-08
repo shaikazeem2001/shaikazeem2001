@@ -144,7 +144,7 @@ const azeem = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shaikazeem2001&theme=onedark&no-frame=true&no-bg=true&margin-w=15" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-repo.vercel.app/?username=shaikazeem2001&theme=onedark&no-frame=true&no-bg=true&margin-w=15" width="100%" alt="GitHub Trophies" />
 
 </div>
 
@@ -218,7 +218,7 @@ const azeem = {
 
 ### 👁️ Profile Visitor Count
 
-<img src="https://komarev.com/ghpvc/?username=shaikazeem2001&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://hits.sh/github.com/shaikazeem2001.svg?style=for-the-badge&label=PROFILE+VIEWS&color=00f2fe" alt="Profile Views" />
 
 <br/><br/>
 
